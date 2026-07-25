@@ -74,7 +74,7 @@ g++ SnakeGame.cpp -o SnakeGame
 SnakeGame.exe
 ```
 
-> **Note:** This project uses `conio.h` and `windows.h`, so it runs only on Windows.
+ **Note:** This project uses `conio.h` and `windows.h`, so it runs only on Windows.
 
 ---
 
