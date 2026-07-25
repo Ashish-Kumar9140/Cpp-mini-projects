@@ -1,23 +1,23 @@
 
-# 🐍 Snake Game (C++)
+#  Snake Game (C++)
 
 A simple console-based **Snake Game** developed in **C++** using object-oriented programming concepts and Windows console functions. The player controls the snake using the arrow keys, collects fruits to increase the score, and avoids colliding with walls or its own tail.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🎮 Classic Snake gameplay
-- ⌨️ Arrow key controls
-- 🍎 Random fruit generation
-- 📈 Score tracking
-- 🐍 Snake grows after eating fruits
-- 💥 Collision detection with walls and snake body
-- ❌ Press **X** anytime to exit the game
+-  Classic Snake gameplay
+-  Arrow key controls
+-  Random fruit generation
+-  Score tracking
+-  Snake grows after eating fruits
+-  Collision detection with walls and snake body
+-  Press **X** anytime to exit the game
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C++
 - Windows Console
@@ -28,7 +28,7 @@ A simple console-based **Snake Game** developed in **C++** using object-oriented
 
 ---
 
-## 🎯 Controls
+##  Controls
 
 | Key | Action |
 |-----|--------|
@@ -40,7 +40,7 @@ A simple console-based **Snake Game** developed in **C++** using object-oriented
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 SnakeGame/
@@ -51,14 +51,14 @@ SnakeGame/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Using Visual Studio
 
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/SnakeGame.git
+git clone https://github.com/Ashish-Kumar9140/SnakeGame.git
 ```
 
 2. Open the project in Visual Studio.
@@ -78,7 +78,7 @@ SnakeGame.exe
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 - The snake starts from the center of the board.
 - Eat the `*` (fruit) to increase your score.
@@ -88,7 +88,7 @@ SnakeGame.exe
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ```
 ######################
@@ -103,7 +103,7 @@ Score : 20
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Wrap-around walls
 - High score system
@@ -118,7 +118,7 @@ Score : 20
 
 ---
 
-## 📚 Concepts Used
+##  Concepts Used
 
 - Functions
 - Arrays
@@ -131,7 +131,7 @@ Score : 20
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ashish Prajapati**
 
@@ -139,6 +139,6 @@ If you like this project, don't forget to ⭐ the repository!
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the **MIT License**.
