@@ -135,6 +135,9 @@ Score : 20
 
 **Ashish Prajapati**
 
+* GitHub: https://github.com/Ashish-Kumar9140
+* LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
+
 If you like this project, don't forget to ⭐ the repository!
 
 ---
