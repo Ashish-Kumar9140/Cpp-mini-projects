@@ -2,13 +2,12 @@
 #include <cstdlib>
 #include <ctime>
 
-
 using namespace std;
 
-//Defining playGame function
+// Defining playGame function
 
-
-void playGame() {
+void playGame()
+{
 
     int low, high;
 
@@ -19,8 +18,11 @@ void playGame() {
 
     cout << "Enter Maximum Range: ";
     cin >> high;
+
     // checking low and high range
-    while (low >= high) {
+
+    while (low >= high)
+    {
         cout << "\nInvalid Range!\n";
         cout << "Enter Minimum Range: ";
         cin >> low;
@@ -35,28 +37,36 @@ void playGame() {
 
     cout << "\nI have selected a number between "
          << low << " and " << high << ".\n";
-// Here Game is start
-    while (true) {
+
+    // Here Game is start
+
+    while (true)
+    {
 
         cout << "Enter your guess: ";
         cin >> guess;
 
         attempts++;
 
-        if (guess == secret) {
+        if (guess == secret)
+        {
             cout << "\nCorrect!!\n";
             break;
         }
-        else if (guess < secret) {
+        else if (guess < secret)
+        {
             cout << "Too Low!\n";
         }
-        else {
+        else
+        {
             cout << "Too High!\n";
         }
     }
 
     // Printing secret Number and total Attempts
+
     cout << "\nNumber = " << secret << endl;
+
     cout << "Attempts = " << attempts << endl;
 
     int score = 100 - (attempts - 1) * 10;
@@ -67,15 +77,15 @@ void playGame() {
     cout << "Score = " << score << "/100\n";
 }
 
-
-
-int main() {
+int main()
+{
 
     srand(time(0));
 
     int choice;
 
-    do {
+    do
+    {
 
         cout << "\n=============================\n";
         cout << "     GUESS NUMBER GAME\n";
@@ -87,7 +97,8 @@ int main() {
         cout << "Enter Choice: ";
         cin >> choice;
 
-        switch (choice) {
+        switch (choice)
+        {
 
         case 1:
             playGame();
