@@ -7,6 +7,7 @@ using namespace std;
 
 //Defining playGame function
 
+
 void playGame() {
 
     int low, high;
