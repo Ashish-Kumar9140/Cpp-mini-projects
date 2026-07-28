@@ -35,13 +35,13 @@ Bank-Management-System/
 
 # How It Works
 
-The application loads all existing account details from *bank.txt* when it starts.
+1.The application loads all existing account details from *bank.txt* when it starts.
 
-Users can perform different banking operations through a menu-driven interface.
+2.Users can perform different banking operations through a menu-driven interface.
 
-Whenever an account is created, updated, or modified, the latest data is automatically saved back into the file.
+3.Whenever an account is created, updated, or modified, the latest data is automatically saved back into the file.
 
-This ensures that account information is preserved even after closing the application.
+4.This ensures that account information is preserved even after closing the application.
 
 
 #Menu Options
