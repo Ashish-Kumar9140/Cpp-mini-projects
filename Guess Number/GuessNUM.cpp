@@ -54,6 +54,7 @@ void playGame() {
         }
     }
 
+    // Printing secret Number and total Attempts
     cout << "\nNumber = " << secret << endl;
     cout << "Attempts = " << attempts << endl;
 
