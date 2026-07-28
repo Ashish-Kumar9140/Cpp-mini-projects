@@ -90,10 +90,7 @@ Example:
 102 Aman 12000
 103 Ankit 8000
 ```
-
 The file is automatically updated after every successful transaction.
-
-
 
 # Concepts Used
 
@@ -105,7 +102,6 @@ The file is automatically updated after every successful transaction.
 * Loops
 * Conditional Statements
 * Menu-Driven Programming
-
 
 
 # Functions Implemented
