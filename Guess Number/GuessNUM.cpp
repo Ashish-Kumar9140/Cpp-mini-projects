@@ -18,7 +18,7 @@ void playGame() {
 
     cout << "Enter Maximum Range: ";
     cin >> high;
-
+    // checking low and high range
     while (low >= high) {
         cout << "\nInvalid Range!\n";
         cout << "Enter Minimum Range: ";
