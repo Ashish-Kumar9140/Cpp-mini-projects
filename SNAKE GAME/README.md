@@ -1,5 +1,5 @@
 
-#  Snake Game (C++)
+## Snake Game (C++)
 
 A simple console-based **Snake Game** developed in **C++** using object-oriented programming concepts and Windows console functions. The player controls the snake using the arrow keys, collects fruits to increase the score, and avoids colliding with walls or its own tail.
 
