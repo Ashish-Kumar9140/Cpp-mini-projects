@@ -34,7 +34,7 @@ void playGame() {
 
     cout << "\nI have selected a number between "
          << low << " and " << high << ".\n";
-
+// Here Game is start
     while (true) {
 
         cout << "Enter your guess: ";
