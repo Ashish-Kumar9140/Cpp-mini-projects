@@ -147,7 +147,9 @@ Score = 80/100
 
 # Author
 
-<b>Ashish Prajapati</b>
+<span style="font-weight: bold; text-decoration: underline;">
+    Ashish Prajapati
+</span>
 * GitHub: https://github.com/Ashish-Kumar9140
 * LinkedIn: www.linkedin.com/in/ashish-prajapati-aaa9ba32a
 
