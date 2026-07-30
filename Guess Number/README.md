@@ -59,8 +59,8 @@ guess_number.exe
    - Too High!
 7. After guessing correctly, your:
    - Number of attempts
-   - Final score
-   are displayed.
+   - Final score are displayed.
+   
 
 
 
